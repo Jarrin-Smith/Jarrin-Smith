@@ -75,15 +75,11 @@ Graduated: May 2024
 
 ---
 
-## 🐾 Fun Fact
-I have two cats named Pixel and Byte 😸
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jarrin-smith&show_icons=true&locale=en" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jarrin-smith&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jarrin-smith" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jarrin-smith&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jarrin-smith&layout=compact" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=jarrin-smith" alt="GitHub Streak" />
 </p>
+
