@@ -48,19 +48,19 @@ I thrive at the intersection of software, data, and manufacturing systems, and I
 ## 💼 Professional Experience
 
 **StarPlus Energy – MES Operations Specialist**  
-*Nov 2024 – Aug 2025 | Kokomo, IN*  
+*Nov 2024 – Aug 2025  
 - Automated validation of 12,000+ production records using Python  
 - Developed SQL queries to analyze MES data  
 - Collaborated with developers and engineers to debug MES backend  
 - Contributed to CIM patch deployment and internal documentation
 
 **BorgWarner – Software Engineer Intern**  
-*May 2023 – Aug 2023 | Kokomo, IN*  
+*May 2023 – Aug 2023
 - Developed Verilog motor simulation and tested embedded C code  
 - Migrated engineering repos from PLASTIC to Bitbucket
 
 **BorgWarner – Software Engineer Intern**  
-*May 2022 – Aug 2022 | Kokomo, IN*  
+*May 2022 – Aug 2022 
 - Built Python web tool to detect outliers in test data  
 - Enhanced UI and visualizations for engineering workflows
 
