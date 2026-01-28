@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jarrin Smith</h1>
-<h3 align="center">Aspiring Data Engineer | Python • SQL • Cloud • Automation</h3>
+<h3 align="center">Technical Engineer | Python • SQL • Cloud • Automation</h3>
 <p align="center">Transforming complex systems into clean, scalable data workflows</p>
 
 ---
